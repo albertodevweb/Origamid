@@ -52,17 +52,5 @@ O site possui um visual moderno com fontes do Google Fonts e organização visua
 git clone https://github.com/albertodevweb/Origamid/tree/main/FlexBox
 ```
 
-2. Estrutura das Pastas:
-   flexblog/
-   │
-   ├── css/
-   │ └── style.css
-   ├── img/
-   │ ├── sobre1.jpg
-   │ ├── sobre2.jpg
-   │ └── produtos1.jpg ...
-   └── index.html
-
-
 ## 🚀 Como Visualizar o site completo
 ![FlexBlog Preview](img/preview.png)
