@@ -2,8 +2,6 @@
 
 Projeto desenvolvido durante o curso **CSS Flexbox** da [Origamid](https://www.origamid.com/), com o objetivo de aplicar na prática os principais conceitos e propriedades do Flexbox.
 
-![FlexBlog Preview](img/preview.png)
-![Link: ](https://flexbox-site-origamid.netlify.app/)
 ## 📚 Sobre o Projeto
 
 O **FlexBlog** é um site fictício que simula um blog moderno, com layout 100% responsivo e estruturado com HTML5 e CSS3, utilizando **Flexbox** para organizar os elementos na página.
@@ -49,16 +47,22 @@ O site possui um visual moderno com fontes do Google Fonts e organização visua
 ## 🚀 Como Visualizar
 
 1. Clone o repositório:
+
 ```bash
 git clone https://github.com/albertodevweb/Origamid/tree/main/FlexBox
 ```
+
 2. Estrutura das Pastas:
-flexblog/
-│
-├── css/
-│   └── style.css
-├── img/
-│   ├── sobre1.jpg
-│   ├── sobre2.jpg
-│   └── produtos1.jpg ...
-└── index.html
+   flexblog/
+   │
+   ├── css/
+   │ └── style.css
+   ├── img/
+   │ ├── sobre1.jpg
+   │ ├── sobre2.jpg
+   │ └── produtos1.jpg ...
+   └── index.html
+
+
+## 🚀 Como Visualizar o site completo
+![FlexBlog Preview](img/preview.png)
